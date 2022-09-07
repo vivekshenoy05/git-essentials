@@ -1,7 +1,7 @@
 # git-essentials
 
-##deployment
+## deployment
 here we are deploying the model
 
-##lean
+## lean
 learn new model
